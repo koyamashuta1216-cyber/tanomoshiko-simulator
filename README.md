@@ -51,7 +51,7 @@ Honest members' trust converges toward 1.0 quickly. Frequent defectors are pushe
 
 This was the most interesting finding for me, and it isn't something Sakakibara's 3-person model can show. Averaging trust across more members dilutes the effect of any single defection — a small tanomoshiko can collapse quickly even with a moderate fraction of opportunists, while a large one stays stable well past that point. This offers a possible explanation for why real tanomoshiko groups historically ranged so widely in size, and why larger community-based groups (documented in Shimizu, 1972) were able to persist for decades.
 
-## Attribution
+## ## My contribution
 - The **theoretical framework** (mujin vs. loan market, time inconsistency, log utility setup) closely follows Sakakibara (2014). My contribution here is the faithful numerical replication as a validation step.
 - The **Bayesian trust-updating mechanism, the n-person generalization, the participation-constraint stability condition, and the Monte Carlo survival analysis** are my own extensions, built independently for this project.
 - The historical context draws on Shimizu (1972), a field survey of ~100 households using tanomoshiko in Osaka, Nara, and Hyogo prefectures.
